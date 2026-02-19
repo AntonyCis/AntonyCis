@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Antony Cisneros  
+# Antony Cisneros (Desarrollador de Software)
 🎨 Frontend Developer en formación | ⚙️ Base Full Stack  
 📍 Quito, Ecuador
 
@@ -56,21 +56,9 @@ Desarrollador **Frontend** enfocado en crear interfaces **modernas, claras y fun
 
 ---
 
-## 📊 GitHub Stats (alternativa estable)
-
-<div align="center">
-
-![Repos](https://img.shields.io/badge/Repositorios-Activos-success?style=flat)
-![Commits](https://img.shields.io/badge/Commits-Constantes-blue?style=flat)
-![Learning](https://img.shields.io/badge/Enfoque-Frontend%20%2B%20FullStack-purple?style=flat)
-
-</div>
-
----
-
 ## 📫 Contacto
 💼 GitHub: **@antonycisneros**  
-📧 Email: *(agrega tu correo)*
+📧 Email: *cisnerosaa25@gmail.com*
 
 <div align="center">
 
