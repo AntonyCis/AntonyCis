@@ -1,10 +1,7 @@
 <div align="center">
 
-# 👋 Hola, soy Antony Cisneros
-
-🎨 **Frontend Developer en formación**  
-⚙️ Con base sólida en lógica, bases de datos y backend  
-
+# 👋 Antony Cisneros  
+🎨 Frontend Developer en formación | ⚙️ Base Full Stack  
 📍 Quito, Ecuador
 
 </div>
@@ -12,127 +9,71 @@
 ---
 
 ## 🚀 Sobre mí
-
-Soy estudiante universitario apasionado por el **desarrollo frontend**, enfocado en crear **interfaces modernas, limpias y funcionales**, sin descuidar la lógica que hay detrás.
-
-Me gusta trabajar con **React**, estructurar bien mis componentes y conectar el frontend con **APIs y bases de datos**, lo que me permite tener una visión **full stack** del desarrollo.
+Desarrollador **Frontend** enfocado en crear interfaces **modernas, claras y funcionales**, con buena base en **lógica, backend y bases de datos**, lo que me permite integrar el frontend con soluciones reales.
 
 ---
 
-## 🎨 Frontend Stack Principal
+## 🛠️ Stack Principal
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=fff)
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=fff)
+
+**Backend / DB**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=fff)
+![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=fff)
+
+**Herramientas**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=fff)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=fff)
 
 </div>
 
 ---
 
-## ⚙️ Backend & Base de Datos (Toque Full Stack)
-
-<div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=fff)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=fff)
-
-</div>
-
----
-
-## 🛠️ Herramientas
-
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
-
-</div>
-
----
-
-## 📂 Proyectos Destacados
-
-### 🎯 Frontend
-
-- 🧮 **Calculator App**
-  - HTML, CSS y JavaScript
-  - Lógica completa
-  - Diseño responsive
-  - Proyecto FreeCodeCamp
-
-- 🥁 **Drum Machine**
-  - Manipulación del DOM
-  - Eventos por teclado y mouse
-  - Interactividad en tiempo real
-  - Proyecto FreeCodeCamp
-
-- ⚛️ **Interfaces en React**
-  - Componentes reutilizables
-  - Hooks (`useState`, `useEffect`)
-  - Manejo de estados
-  - Consumo de APIs
-
-### 🔌 Integración Full Stack
-
-- Conexión Frontend ↔ Backend
-- Consumo de APIs REST
-- Formularios con validaciones
-- Backend en PHP
-- Bases de datos MySQL y SQL Server
+## 📂 Proyectos
+- 🧮 **Calculator App** – HTML, CSS, JS (FreeCodeCamp)  
+- 🥁 **Drum Machine** – DOM & eventos (FreeCodeCamp)  
+- ⚛️ **Apps en React** – Hooks, estado, consumo de APIs  
+- 🔌 **Integraciones Full Stack** – React + PHP + MySQL
 
 ---
 
 ## 🧠 Conocimientos Clave
-
-- Arquitectura de componentes en React
-- Separación de lógica y UI
-- Consumo de APIs (`fetch`, `axios`)
-- Formularios y validaciones
-- Responsive Design
-- Control de versiones con Git
-- Modelado y consultas SQL
-- Comprensión de flujo Frontend ↔ Backend
+- Componentes y hooks en React  
+- Consumo de APIs REST  
+- Formularios y validaciones  
+- Responsive Design  
+- Git y control de versiones  
+- SQL y flujo Frontend ↔ Backend  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (alternativa estable)
 
 <div align="center">
 
-![Antony GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonycisneros&show_icons=true&theme=tokyonight)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonycisneros&layout=compact&theme=tokyonight)
+![Repos](https://img.shields.io/badge/Repositorios-Activos-success?style=flat)
+![Commits](https://img.shields.io/badge/Commits-Constantes-blue?style=flat)
+![Learning](https://img.shields.io/badge/Enfoque-Frontend%20%2B%20FullStack-purple?style=flat)
 
 </div>
 
 ---
 
-## 📚 Actualmente Aprendiendo
-
-- Buenas prácticas avanzadas en React
-- UI / UX
-- Optimización de rendimiento frontend
-- Arquitectura frontend escalable
-- Despliegue de aplicaciones web
-
----
-
 ## 📫 Contacto
-
-- 💼 GitHub: **@antonycisneros**
-- 📧 Email: *(agrega tu correo aquí)*
-
----
+💼 GitHub: **@antonycisneros**  
+📧 Email: *(agrega tu correo)*
 
 <div align="center">
 
-⭐ *Construyendo interfaces modernas con una base sólida de lógica y backend.*
+⭐ Interfaces limpias con base sólida de lógica y backend
 
 </div>
