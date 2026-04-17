@@ -4,7 +4,7 @@
 ### **Full Stack Developer** | Especialista en Frontend & Ciberseguridad
 📍 Quito, Ecuador 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antony-cisneros-benavides-9118a4324 )
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](TU_PORTFOLIO_LINK)
 
 </div>
