@@ -29,7 +29,7 @@
 
 ## 🚀 Sobre mí
 
-Soy estudiante de **Desarrollo de Software en la EPN (ESFOT)**, en Quito, Ecuador. Mi enfoque principal está en el ecosistema **Full-Stack y Mobile**, con un fuerte respaldo en **Ciberseguridad y Administración de Sistemas**, lo que me permite diseñar y desplegar aplicaciones robustas desde el código hasta la infraestructura.
+Graduado de **Desarrollo de Software en la EPN (ESFOT)**, en Quito, Ecuador. Mi enfoque principal está en el ecosistema **Full-Stack**, con un fuerte respaldo en **Ciberseguridad y Administración de Sistemas**, lo que me permite diseñar y desplegar aplicaciones robustas desde el código hasta la infraestructura.
 
 Recientemente completé mis prácticas preprofesionales en la **Empresa Eléctrica Quito (EEQ)**, donde fortalecí mis habilidades en seguridad informática, auditoría de redes y gestión de sistemas críticos.
 
