@@ -16,7 +16,7 @@
 <a href="mailto:cisnerosaa25@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/antonycisneros" target="_blank">
+<a href="https://github.com/AntonyCis" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/Discord-antony__cisneros-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
@@ -43,6 +43,11 @@ perfil:
   ubicacion: Quito, Ecuador
 ```
 
+🔭 **Proyecto insignia:** SentinelReview — revisor de seguridad automático para Pull Requests, con arquitectura funcionando de punta a punta y un framework de evaluación que mide su propia precisión (P/R/F1 = 1.00).
+💼 **Buscando:** mi primera oportunidad como Full Stack Developer.
+🌱 **Profundizando en:** NestJS y Angular.
+⚡ **Dato curioso:** también estoy construyendo [Andicod](https://www.andicod.com), un estudio de diseño web, junto a mi hermano.
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 🛠️ Stack Tecnológico
@@ -54,6 +59,8 @@ perfil:
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -64,11 +71,16 @@ perfil:
 **Backend & Bases de Datos**
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
 **Herramientas & Infraestructura**
@@ -80,6 +92,7 @@ perfil:
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
 <img src="https://img.shields.io/badge/Ciberseguridad-000000?style=for-the-badge&logo=shieldsdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Semgrep-1B1818?style=for-the-badge&logo=semgrep&logoColor=white" />
 
 </div>
 
@@ -88,6 +101,28 @@ perfil:
 ## 📂 Proyectos Destacados
 
 <table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ SentinelReview</h3>
+      <p><em>Proyecto insignia de portafolio</em></p>
+      <p>Revisor de seguridad automático para Pull Requests: se instala como GitHub App, detecta vulnerabilidades reales con Semgrep, usa un LLM para descartar falsos positivos y explicar cada hallazgo, y comenta el resumen en el PR. Se diferencia con un <strong>framework de evaluación reproducible</strong>: iterando el prompt del LLM llevó la precisión de 0.60 (solo Semgrep) a <strong>1.00 precision / 1.00 recall / 0 falsos positivos</strong>.</p>
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Semgrep-1B1818?style=flat-square&logo=semgrep&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ SpeechAI</h3>
+      <p><em>Transcripción y fine-tuning de voz</em></p>
+      <p>Plataforma web para transcripción inteligente de audio y entrenamiento personalizado de modelos de voz sobre OpenAI Whisper, con ajuste de hiperparámetros (epochs, batch size, learning rate), métricas en tiempo real (loss) y evaluación por Word Error Rate (WER).</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI_Whisper-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 AI Job Interview Simulator</h3>
@@ -99,49 +134,25 @@ perfil:
       <img src="https://img.shields.io/badge/LLM_API-412991?style=flat-square&logo=openai&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 CV-CREATOR</h3>
-      <p><em>App móvil nativa</em></p>
-      <p>Aplicación móvil moderna orientada a la creación y personalización de currículums profesionales de manera rápida y dinámica desde dispositivos móviles.</p>
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🗺️ Polimaps</h3>
-      <p><em>Optimización web</em></p>
-      <p>Aplicación web enfocada en optimización de rendimiento y renderizado, mejorando métricas críticas de Core Web Vitals como el Largest Contentful Paint (LCP).</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📅 Sistema Comercial de Gestión de Citas</h3>
-      <p><em>Sistema empresarial</em></p>
-      <p>CRUD de nivel empresarial para automatización, control y agendamiento de citas de clientes, optimizado para soportar flujos intensivos de datos.</p>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <h3>🏨 Sistema de Gestión Hotelera</h3>
+      <p><em>Base de datos empresarial</em></p>
+      <p>Base de datos completa para gestión hotelera en SQL Server: roles y permisos personalizados, auditoría vía triggers, hash de contraseñas, respaldos en caliente/frío, funciones y procedimientos almacenados.</p>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+      <img src="https://img.shields.io/badge/T--SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
     </td>
   </tr>
 </table>
+
+<p align="center"><sub>Otros proyectos: <a href="https://github.com/AntonyCis/Turix">Turix</a> (gestión de viajes turísticos) · CV-Creator (app de currículums) · Polimaps (optimización web)</sub></p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonycisneros&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonycisneros&layout=compact&theme=tokyonight&border_radius=10" />
-</div>
+
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonycisneros&theme=tokyonight&border_radius=10" alt="streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=antonycisneros&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntonyCis&theme=tokyonight&border_radius=10" alt="streak stats" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -162,7 +173,7 @@ perfil:
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=antonycisneros&style=for-the-badge&color=58A6FF&label=Visitas+al+perfil" />
+<img src="https://komarev.com/ghpvc/?username=AntonyCis&style=for-the-badge&color=58A6FF&label=Visitas+al+perfil" />
 
 </div>
 
